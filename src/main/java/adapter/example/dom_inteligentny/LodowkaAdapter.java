@@ -1,6 +1,6 @@
 package adapter.example.dom_inteligentny;
 
-import com.javagda25.design_patterns.structural.adapter.example.IElementDomuInteligentnego;
+import adapter.example.IElementDomuInteligentnego;
 
 public class LodowkaAdapter implements IElementDomuInteligentnego {
     private final Lodowka lodowka;

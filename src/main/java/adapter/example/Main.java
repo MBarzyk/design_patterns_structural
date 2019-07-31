@@ -1,6 +1,6 @@
 package adapter.example;
 
-import com.javagda25.design_patterns.structural.adapter.example.dom_inteligentny.*;
+import adapter.example.dom_inteligentny.*;
 
 import java.util.ArrayList;
 import java.util.List;
